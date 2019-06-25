@@ -242,7 +242,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     achievements: "Logros" # Tooltip on achievement list button from /play
     settings: "Configuración" # Tooltip on settings button from /play
     poll: "Encuestas" # Tooltip on poll button from /play
-    next: "Próximo" # Go from choose hero to choose inventory before playing a level
+    next: "Siguiente" # Go from choose hero to choose inventory before playing a level
     change_hero: "Cambiar héroe" # Go back from choose inventory to choose hero
     change_hero_or_language: "Cambiar héroe o lenguaje"
     buy_gems: "Comprar gemas"
