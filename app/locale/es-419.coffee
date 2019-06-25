@@ -626,7 +626,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     tome_your_skills: "Tus habilidades"
     hints: "Pistas"
     videos: "Videos"
-    hints_title: "Pistas {{number}}"
+    hints_title: "Pista {{number}}"
     code_saved: "Código Guardado"
     skip_tutorial: "Saltar (esc)"
     keyboard_shortcuts: "Atajos de teclado"
